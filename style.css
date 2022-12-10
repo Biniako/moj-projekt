@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to left, orange, blue);
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 15px;
+    font-style: italic;
+}
+img{
+   border-radius:40%;
+}
